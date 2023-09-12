@@ -41,3 +41,6 @@ class RoutingTable():
 ## Paper Code
 
 ![IMG_1204](https://github.com/jonathanye29/year_2/assets/111751273/e8e8c0ef-2173-452e-9217-84998a05151d)
+
+![IMG_1208](https://github.com/jonathanye29/year_2/assets/111751273/b69de5f1-7622-4760-8b8c-2608d172c836)
+
